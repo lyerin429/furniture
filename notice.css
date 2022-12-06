@@ -1,0 +1,39 @@
+h1 a{
+    color: black;
+}
+
+section{
+    width: 880px;
+    height: 480px;
+    position: absolute;
+    top: 100px;
+    background: #f8f8f8;
+    padding: 0 0 0 20px;
+}
+
+h2{
+    color: #405357;
+    font-size: 36px;
+    padding: 35px 20px;
+}
+
+article{
+    width: 400px;
+    float: left;
+}
+#a{
+    margin: 20px 40px 20px 20px
+}
+#signup{
+    margin-left: 60px;
+}
+textarea{
+    width: 271px;
+    height: 100px;
+    padding: 10px;
+    resize: none;
+}
+footer{
+    position: relative;
+    top: 600px;
+}

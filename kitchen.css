@@ -1,0 +1,77 @@
+h1 a{
+    color: black;
+}
+
+section{
+    width: 880px;
+    height: 720px;
+    position: absolute;
+    top: 100px;
+    background: #f8f8f8;
+    padding: 0 0 0 20px;
+}
+
+section h2{
+    color: #405357;
+    font-size: 36px;
+    padding: 35px 20px;
+}
+
+section>article>p{
+    margin-top: 10px;
+    color: #666;
+}
+
+article{
+    float: left;
+    margin-bottom: 20px;
+}
+article div:nth-of-type(1) {
+    width: 200px;
+    height: 200px;
+    margin-right:20px;
+}
+h4{
+    margin-top: 20px;
+}
+
+#a a:visited{
+    color: black;
+}
+
+.ki_1{
+    background: url(img/kitchen_1.jpg) no-repeat;
+    background-size: cover;
+}
+.ki_2{
+    background: url(img/kitchen_2.jpg) no-repeat;
+    background-size: cover;
+}
+.ki_3{
+    background: url(img/kitchen_3.jpg) no-repeat;
+    background-size: cover;
+}
+.ki_4{
+    background: url(img/kitchen_4.jpg) no-repeat;
+    background-size: cover;
+}
+.ki_5{
+    background: url(img/kitchen_5.jpg) no-repeat;
+    background-size: cover;
+}
+.ki_6{
+    background: url(img/kitchen_6.jpg) no-repeat;
+    background-size: cover;
+}
+.ki_7{
+    background: url(img/kitchen_7.jpg) no-repeat;
+    background-size: cover;
+}
+.ki_8{
+    background: url(img/kitchen_8.jpg) no-repeat;
+    background-size: cover;
+}
+footer{
+    position: relative;
+    top: 830px;
+}
